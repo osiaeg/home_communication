@@ -29,3 +29,5 @@ if (BMI >= 30) and (BMI <= 50):
 print (Style.RESET_ALL)
 
 print ('Pragramm is finished!')
+
+input()
